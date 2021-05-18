@@ -6,7 +6,7 @@ I am a data enthusiast and Looking for an entry-level opportunity In the data sc
 
 Skills: Python/ SQL/ MySQL / PostgreSQL/Tableau/Data Analytics
 
-<p  align="center"><img height="450" src = "https://media.giphy.com/media/n6mEMqAuYOQ8l8qcEE/source.gif"></p>
+<p  align="center"><img height="450" src = "https://media.giphy.com/media/n6mEMqAuYOQ8l8qcEE/giphy.gif"></p>
 
 
 ###            👇🏻👇🏻👇🏻👇🏻 You can reach me out for detailed information at .👇🏻👇🏻👇🏻👇🏻
