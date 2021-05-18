@@ -1,4 +1,15 @@
-### Hi there 👋
+### Hi there 👋, my name is Vikas 
+![](https://media.giphy.com/media/HEURGne9Vj856oivkD/giphy.gif)
+
+I am a data enthusiast and Looking for an entry-level opportunity In the data science field.
+
+Skills: Python/ SQL/ MySQL / PostgreSQL/Tableau/Data Analytics
+
+<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" height="400">
+
+
+
+
 
 <!--
 **vikas0694/vikas0694** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
