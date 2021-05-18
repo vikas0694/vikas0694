@@ -5,12 +5,9 @@
 I am a data enthusiast and Looking for an entry-level opportunity In the data science field.
 
 Skills: Python/ SQL/ MySQL / PostgreSQL/Tableau/Data Analytics
-
-<p  align="center"><img height="450" src = "https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif"></p>
-
-
 ###            👇🏻👇🏻👇🏻👇🏻 You can reach me out for detailed information at .👇🏻👇🏻👇🏻👇🏻
-   [**PORTFOLIO**](vikas0694.github.io)
+   [**PORTFOLIO**](https://vikas0694.github.io/)
+                                            https://vikas0694.github.io/
 
 
 
