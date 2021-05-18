@@ -6,7 +6,8 @@ I am a data enthusiast and Looking for an entry-level opportunity In the data sc
 
 Skills: Python/ SQL/ MySQL / PostgreSQL/Tableau/Data Analytics
 
-<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" height="400">
+<p  align="center"><img height="450" src = "https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif"></p>
+
 
 ###            👇🏻👇🏻👇🏻👇🏻 You can reach me out for detailed information at .👇🏻👇🏻👇🏻👇🏻
    [**PORTFOLIO**](vikas0694.github.io)
