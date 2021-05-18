@@ -4,7 +4,12 @@
 
 I am a data enthusiast and Looking for an entry-level opportunity In the data science field.
 
-Skills: Python/ SQL/ MySQL / PostgreSQL/Tableau/Data Analytics
+Skills: 
+	https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white
+   https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=whitehttps://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white
+   https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white
+   https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white
+   
 
 <p  align="center"><img height="450" src = "https://media.giphy.com/media/n6mEMqAuYOQ8l8qcEE/giphy.gif"></p>
 
