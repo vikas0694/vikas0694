@@ -1,11 +1,12 @@
 ### Hi there 👋, my name is Vikas 
-<p  align="center"><img height="450" src = "https://media.giphy.com/media/HEURGne9Vj856oivkD/giphy.gif"></p>
+<p  align="center"><img height="400" src = "https://media.giphy.com/media/HEURGne9Vj856oivkD/giphy.gif"></p>
 <!-- ![](https://media.giphy.com/media/HEURGne9Vj856oivkD/giphy.gif) -->
 
 I am a data enthusiast and Looking for an entry-level opportunity In the data science field.
 
 Skills: 
-	https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white
+<img height="400" src = "https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+	<source = "https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
    https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=whitehttps://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white
    https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white
    https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white
