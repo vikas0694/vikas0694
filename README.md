@@ -1,5 +1,6 @@
 ### Hi there 👋, my name is Vikas 
-![](https://media.giphy.com/media/HEURGne9Vj856oivkD/giphy.gif)
+<p  align="center"><img height="450" src = "https://media.giphy.com/media/HEURGne9Vj856oivkD/giphy.gif"></p>
+<!-- ![](https://media.giphy.com/media/HEURGne9Vj856oivkD/giphy.gif) -->
 
 I am a data enthusiast and Looking for an entry-level opportunity In the data science field.
 
