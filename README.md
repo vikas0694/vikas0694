@@ -1,4 +1,4 @@
-### Hi there 👋, my name is Vikas 
+### Hi there 👋, This is Vikas 
 <p  align="center"><img height="380" src = "https://media.giphy.com/media/HEURGne9Vj856oivkD/giphy.gif"></p>
 <!-- ![](https://media.giphy.com/media/HEURGne9Vj856oivkD/giphy.gif) -->
 
@@ -27,6 +27,5 @@ Skills:
 <!-- - 👯 I’m looking to collaborate on ... -->
 - :technologist: I’m looking for an opportunity ...
 - 💬 Ask me about data...
-- 📫 How to reach me: Look up ...
 <!-- - 😄 Pronouns: ... -->
 
